@@ -8,9 +8,11 @@
 2. Create a bar chart
 
 The chart would look like as below:
+
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c1.png)
 
 3. Add "Error bar" to chart by
+
 (1) Click on the plus button
 (2) Select the pop up menu item "Error Bars"
 (3) Click on the "More Options..."
