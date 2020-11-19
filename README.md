@@ -1,4 +1,4 @@
-# Excel Chart for Timeline or Milestone 
+# Excel Chart for Timeline or Milestones
 
 For a project manager, a timeline chart is very useful to illustrate the project progress: 
 - Show what is completed, what is outstanding.
