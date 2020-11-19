@@ -78,17 +78,16 @@ Now the chart looks like this:<br/>
 (2) Check the "Value From Cells" option <br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c13.png)<br/>
 
-Use mouse to select the column A cells in the table<br/>
-![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c14.png)<br/>
-
-The dialog will be updated to something like below (may not be exactly the same, for illustration only)<br/>
+Use mouse to select the column A cells in the table, and the dialog will be updated to something like below (may not be exactly the same, for illustration only)<br/><br/>
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c14.png)
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c15.png)<br/>
 
 **9. Update the column B data to update the labels' position**
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/d2.png)<br/>
 
-Some data are changed from "50" to "20", to make sure all the labels do not cross or overlap<br/>
+Some data are changed from "50" to "20", to make sure all the labels do not cross or overlap. These values control the think black line (the error bar)'s height and also the lable's position.
+
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c16.png)<br/>
 
 
