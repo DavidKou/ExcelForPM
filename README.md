@@ -90,10 +90,15 @@ Some data are changed from "50" to "20", to make sure all the labels do not cros
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c16.png)<br/>
 
-
-
-![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c17.png)<br/>
+**10. Futher update the column B data to some negative values to adjust the labels' position**
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/d3.png)<br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c18.png)<br/>
+
+**11. Select the error bar (thin black lines) change line width, update the chart title**
+
+The chart now should look like:
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c19.png)<br/>
 
 
 
