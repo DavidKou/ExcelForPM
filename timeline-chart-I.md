@@ -1,4 +1,4 @@
-# ExcelForPM
+# Create timeline/milestone chart using Excel (Part I)
 
 **1. Create an excel file, and add below data**
 
