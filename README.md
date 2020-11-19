@@ -17,8 +17,16 @@
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c2.png)
 
+**4. In the "Format Error Bars" panel, set options as shown below **
+
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c3.png)
+
+This setting adds an error bar (as indicated by the red arrows below), with 100% **minus value (tolerence)**, the same value as the bar height! If we set the value to 50%, the black line will be half the height of the bar then.
+
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c4.png)
+
+
+
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c5.png)
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c6.png)
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c7.png)
