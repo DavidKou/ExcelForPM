@@ -4,7 +4,7 @@
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/part(II).png)
 
-## For Part I of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/blob/main/timeline-chart-I.md).
+For Part I of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/blob/main/timeline-chart-I.md).
 
 In part I, a basic timeline chart is created, and it looks like now:
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/part(I).png)
