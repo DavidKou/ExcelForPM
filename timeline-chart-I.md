@@ -110,6 +110,7 @@ The chart now should look like:
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c19.png)<br/>
 
 <hr/>
+
 For Part II of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/edit/main/timeline-chart-II.md).
 
 
