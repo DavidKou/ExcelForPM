@@ -6,9 +6,12 @@
 
 ## For Part I of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/blob/main/timeline-chart-I.md).
 
+In part I, a basic timeline chart is created, and it looks like now:
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/part(I).png)
+
 
 **1. Create an excel file, and add below data**
 
-![](https://github.com/DavidKou/ExcelForPM/blob/main/images/d1.png)
+
 
 
