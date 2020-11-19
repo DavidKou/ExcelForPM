@@ -17,7 +17,7 @@
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c2.png)
 
-**4. In the "Format Error Bars" panel, set options as shown below **
+**4. In the "Format Error Bars" panel, set options as shown below**
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c3.png)
 
@@ -25,9 +25,15 @@ This setting adds an error bar (as indicated by the red arrows below), with 100%
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c4.png)
 
+**5. Next select the bar and change the color to both "No fill" and "No line"**
 
-
+The chart now should look like as below:<br />
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c5.png)
+
+**5. Select horizontal axis and set the following options for the x-axis**
+- Select the x-axis (the box with texts like "Setting the scope")
+- change the color to both "No fill" and "No line"
+
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c6.png)
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c7.png)
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c8.png)
