@@ -56,8 +56,11 @@ The chart now looks like:<br/>
 
 **6. Update the table for all values 5 or -5, change them to 0**
 
-This moves all marks to the horizontal line:
+This moves all marks to the horizontal line (y=0):
+
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c25.png)
+
+And the chart now looks like:
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c26.png)
 
