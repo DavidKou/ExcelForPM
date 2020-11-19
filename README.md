@@ -1,21 +1,19 @@
 # ExcelForPM
 
-1. Create an excel file, and add below data
+**1. Create an excel file, and add below data
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/d1.png)
 
 
-2. Create a bar chart
-
-The chart would look like as below:
+**2. Create a bar chart, which should look like as below:
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c1.png)
 
-3. Add "Error bar" to chart by
+**3. Add "Error bar" to the chart by
 
-(1) Click on the plus button
-(2) Select the pop up menu item "Error Bars"
-(3) Click on the "More Options..."
+- (1) Click on the plus button
+- (2) Select the pop up menu item "Error Bars"
+- (3) Click on the "More Options..."
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c2.png)
 
