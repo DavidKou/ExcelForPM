@@ -43,7 +43,6 @@ This will hide all the blue bars, with only the error bar (thin black line) left
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c8.png)
 
-and change the color to both "No fill" and "No line" <br/>
 (1) Select "TEXT OPTIONS" <br/>
 (2) Set "TEXT FILL" --> "No fill" <br/>
 (3) Set "TEXT OUTLINE" --> "No line"<br/>
@@ -73,7 +72,7 @@ Now the chart looks like this:<br/>
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c11.png)
 
-(1) Uncheck the "Value" (this hides the value "50" in the labels <br/>
+(1) Uncheck the "Value" (this hides the value "50" in the labels) <br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c12.png)
 
 (2) Check the "Value From Cells" option <br/>
@@ -91,6 +90,8 @@ The dialog will be updated to something like below (may not be exactly the same,
 
 Some data are changed from "50" to "20", to make sure all the labels do not cross or overlap<br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c16.png)<br/>
+
+
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c17.png)<br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c18.png)<br/>
