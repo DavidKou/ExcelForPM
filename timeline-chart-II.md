@@ -29,6 +29,48 @@ The data will be used as markers to indicate the current progress of the milesto
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/ConvertToComboChart.gif)
 
 
+**3. Change the chart type of the newly added data series**
+
+- Select the orange chart (labelled with "Complete"), right click > Change Series Chart Type > Change the type from "Clustered Columns" --> "Line with Markers"
+- Select the grey chart (labelled with "In Progress"), right click > Change Series Chart Type > Change the type from "Clustered Columns" --> "Line with Markers"
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c21.png)
+
+The chart now looks like:<br/>
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c22.png)
+
+**4. Hide the line, show markers only for the two line charts **
+
+- Select the two line charts
+- Set the line style to "No line"
+- Set the mark color and size
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c23.png)
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c24.png)
+
+**5. Select the the chart value labels and delete them**
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c24.png)
 
 
+**6. Update the table for all values 5 or -5, change them to 0**
 
+This moves all marks to the horizontal line:
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c25.png)
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c26.png)
+
+
+**7. Add legend to the chart**
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c27.png)
+
+Remove the "Position" label, and leave the rest two legend labels.
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c28.png)
+
+
+**8. Fine tune the Position column value and make it look neat**
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c29.png)
