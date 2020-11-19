@@ -1,10 +1,13 @@
 # Create timeline/milestone chart using Excel (Part I)
 
-## The 1st part walks through how to create a timeline or milestone chart using Excel. It is data driven, andthe location, label of each milestone can be customized by updating the data in the excel table. The output of this part is shown below.
+### The 1st part walks through how to create a timeline or milestone chart using Excel. It is data driven, andthe location, label of each milestone can be customized by updating the data in the excel table. The output of this part is shown below.
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/part(I).png)
 
 For Part II of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/edit/main/timeline-chart-II.md).
+
+<br/>
+<hr/>
 
 **1. Create an excel file, and add below data**
 
