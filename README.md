@@ -43,31 +43,43 @@ This will hide all the blue bars, with only the error bar (thin black line) left
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c8.png)
 
-and change the color to both "No fill" and "No line"
+and change the color to both "No fill" and "No line" <br/>
 (1) Select "TEXT OPTIONS" <br/>
-(2) Set "TEXT FILL" <br/>
-(3) Set "TEXT OUTLINE" <br/>
+(2) Set "TEXT FILL" --> "No fill" <br/>
+(3) Set "TEXT OUTLINE" --> "No line"<br/>
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c9.png)
 
-Now the chart should look as following:
+The x-axis will be supressed, and now the chart should look as following:
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c10.png)
 
 **7. Add labels above the error bar lines**
+
 (1) Click on the plus button <br />
-(2) Select the pop up menu item "Data Labels"<br />
-(3) Click on the "More Options..."<br />
+(2) Select the pop up menu item **"Data Labels"**<br />
+(3) Click on the **"More Options..."**<br />
+
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c11.png)
 
 (1) Uncheck the "Value" (this hides the value "50" in the labels <br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c12.png)
 
-(2) Check the "Value From Cells" option, and use mouse to select the column A cells in the table<br/>
+(2) Check the "Value From Cells" option <br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c13.png)<br/>
+
+Use mouse to select the column A cells in the table<br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c14.png)<br/>
+
+The dialog will be updated to something like below (may not be exactly the same, for illustration only)<br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c15.png)<br/>
+
+**8. Update the column B data to update the labels' position**
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/d2.png)<br/>
+
+Some data are changed from "50" to "20", to make sure all the labels do not cross or overlap<br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c16.png)<br/>
+
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c17.png)<br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c18.png)<br/>
 
