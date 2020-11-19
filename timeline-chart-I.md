@@ -32,6 +32,8 @@ This setting adds an error bar (as indicated by the red arrows below), with 100%
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c4.png)
 
+For Part II of this tutorial, click here.
+
 **5. Select the bar chart (blue part)**
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c5.png)
@@ -107,7 +109,7 @@ The chart now should look like:
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c19.png)<br/>
 
-
-
+<hr/>
+For Part II of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/edit/main/timeline-chart-II.md).
 
 
