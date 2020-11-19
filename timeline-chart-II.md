@@ -79,3 +79,7 @@ Remove the "Position" label, and leave the rest two legend labels.
 **8. Fine tune the Position column value and make it look neat**
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c29.png)
+
+<hr/>
+
+## For Part I of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/blob/main/timeline-chart-I.md).
