@@ -82,4 +82,4 @@ Remove the "Position" label, and leave the rest two legend labels.
 
 <hr/>
 
-## For Part I of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/blob/main/timeline-chart-I.md).
+For Part I of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/blob/main/timeline-chart-I.md).
