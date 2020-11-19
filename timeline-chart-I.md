@@ -5,8 +5,6 @@
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/part(I).png)
 
 For Part II of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/edit/main/timeline-chart-II.md).
-
-<br/>
 <hr/>
 
 **1. Create an excel file, and add below data**
