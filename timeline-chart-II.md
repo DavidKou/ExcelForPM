@@ -39,7 +39,7 @@ The data will be used as markers to indicate the current progress of the milesto
 The chart now looks like:<br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c22.png)
 
-**4. Hide the line, show markers only for the two line charts **
+**4. Hide the line, show markers only for the two line charts**
 
 - Select the two line charts
 - Set the line style to "No line"
