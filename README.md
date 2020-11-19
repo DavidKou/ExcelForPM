@@ -30,14 +30,14 @@ This setting adds an error bar (as indicated by the red arrows below), with 100%
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c5.png)
 
 
-**5. Change the color to both "No fill" and "No line"**
+**6. Change the color to both "No fill" and "No line"**
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c6.png)
 
 This will hide all the blue bars, with only the error bar (thin black line) left in the chart. <br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c7.png)
 
-**6. Select horizontal axis and set the following options for the x-axis**
+**7. Select horizontal axis and set the following options for the x-axis**
 
 (1) Select the x-axis (the box with texts like "Setting the scope")
 
@@ -54,7 +54,18 @@ The x-axis will be supressed, and now the chart should look as following:
 
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c10.png)
 
-**7. Add labels above the error bar lines**
+Keep the x-axis selected, and then <br/>
+(1) Select "AXIS OPTIONS" <br/>
+(2) For "LINE" option, set it to "SOLID LINE"<br/>
+(3) change line "Width" --> "3pt" or more<br/>
+(4) change line "Color" --> which color you like<br/>
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c10a.png)
+
+Now the chart looks like this:<br/>
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c10b.png)
+
+
+**8. Add labels above the error bar lines** 
 
 (1) Click on the plus button <br />
 (2) Select the pop up menu item **"Data Labels"**<br />
@@ -74,7 +85,8 @@ Use mouse to select the column A cells in the table<br/>
 The dialog will be updated to something like below (may not be exactly the same, for illustration only)<br/>
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c15.png)<br/>
 
-**8. Update the column B data to update the labels' position**
+**9. Update the column B data to update the labels' position**
+
 ![](https://github.com/DavidKou/ExcelForPM/blob/main/images/d2.png)<br/>
 
 Some data are changed from "50" to "20", to make sure all the labels do not cross or overlap<br/>
