@@ -111,6 +111,6 @@ The chart now should look like:
 
 <hr/>
 
-For Part II of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/edit/main/timeline-chart-II.md).
+For Part II of this tutorial, click [here](https://github.com/DavidKou/ExcelForPM/blob/main/timeline-chart-II.md).
 
 
