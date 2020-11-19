@@ -7,5 +7,5 @@
 
 - Create a bar chart
 
-![](https://github.com/DavidKou/ExcelForPM/blob/main/images/11.png)
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/c1.png)
 
