@@ -13,7 +13,22 @@ In part I, a basic timeline chart is created, and it looks like now:
 We are going to add each node indicator to each milestone, indicating the "Completed" or "In Progress" state. To do so we need to create [combo chart](https://trumpexcel.com/combination-charts-in-excel/) in Excel.
 <hr/>
 
-**1. Create an excel file, and add below data**
+**1. Add two columns of data: "Completed" and "In Progress"**
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/d4.png)
+
+The data will be used as markers to indicate the current progress of the milestones.
+
+
+
+**2. Convert the previous single series to a Combo chart **
+
+= Select the chart desined in Part I.
+= Drag the bottom right corner of the excel table to enlarge the data included in the chart
+= Excel is smart enough to change this from a single chart to a combo chart.
+
+![](https://github.com/DavidKou/ExcelForPM/blob/main/images/ConvertToComboChart.gif)
+
 
 
 
