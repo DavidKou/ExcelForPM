@@ -16,6 +16,6 @@ For a project manager, a timeline chart is very useful to illustrate the project
 - Eit as needed 
 
 ### How to make it yourslef tutorials
-- [Create timeline/milestone chart using Excel (Part I)](https://github.com/DavidKou/ExcelForPM/edit/main/timeline-chart-I.md)
-- [Create timeline/milestone chart using Excel (Part II)](https://github.com/DavidKou/ExcelForPM/edit/main/timeline-chart-II.md)
+- [Create timeline/milestone chart using Excel (Part I)](https://github.com/DavidKou/ExcelForPM/blob/main/timeline-chart-I.md)
+- [Create timeline/milestone chart using Excel (Part II)](https://github.com/DavidKou/ExcelForPM/blob/main/timeline-chart-II.md)
 
