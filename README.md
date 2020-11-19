@@ -11,7 +11,7 @@ For a project manager, a timeline chart is very useful to illustrate the project
 
 ### Usage without know-how
 
-- Clone the code repo.
+- Clone the code repo or download the [**timeline.xlsx**](https://github.com/DavidKou/ExcelForPM/blob/main/excel/Timeline.xlsx)
 - Open the **timeline.xlsx** in the code repository. 
 - Edit as needed! 
 
